@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+title: David's Outpost
+email: ddloeffler@gmail.com
+description:
+  Write an awesome description here.
+
+markdown: kramdown
+theme: minima
+
