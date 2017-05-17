@@ -6,4 +6,4 @@ title: My Web Site
 
 This is a **markdown** file.
  
-![About](about.html)
+[About](about.html)
